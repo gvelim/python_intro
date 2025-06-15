@@ -10,14 +10,14 @@ files:
     visible: true
     placeholders:
       - offset: 185
-        length: 33
+        length: 19
         placeholder_text: "length=5, 5, '____'"
         initial_state:
           length: 19
           offset: 185
         initialized_from_dependency: false
         encrypted_possible_answer: 4tNnVg2IYnyCL8qZzfMXriBjyIbiv1+xt7GuvaDF4uY=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/test_task.py
@@ -25,7 +25,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Functions+/+Argument+Order
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 16:44:48 UTC"
 record: -1

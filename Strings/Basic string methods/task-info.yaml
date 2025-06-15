@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 131
-        length: 20
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
@@ -22,7 +22,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+Basic+String+Methods
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 14:45:00 UTC"
 record: -1

@@ -4,34 +4,34 @@ files:
     visible: true
     placeholders:
       - offset: 152
-        length: 36
+        length: 64
         placeholder_text: "# Open the file input1.txt in read mode using the with statement"
         initial_state:
           length: 64
           offset: 152
         initialized_from_dependency: false
         encrypted_possible_answer: ClONeCJ89xM+YLBHqI0uT1f8HqjRdiTgfJ5kbVb6uEkePVfxQgPcZ4zVQDjbR9AC
-        selected: true
+        selected: false
         status: Solved
-      - offset: 241
-        length: 12
+      - offset: 269
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 269
         initialized_from_dependency: false
         encrypted_possible_answer: CjyIEIdTn2xi5YDrREVhYw==
-        selected: true
+        selected: false
         status: Solved
-      - offset: 411
-        length: 15
+      - offset: 430
+        length: 24
         placeholder_text: "# Close the output file!"
         initial_state:
           length: 24
           offset: 430
         initialized_from_dependency: false
         encrypted_possible_answer: GLfjqX8FAMv5bbIEND3/XA==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: input.txt
@@ -46,15 +46,6 @@ files:
   - name: tests/test_task.py
     visible: false
     learner_created: false
-  - name: out_file
-    visible: true
-    learner_created: true
-  - name: outfile.txt
-    visible: true
-    learner_created: true
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=File+Input+Output+/+Open+file
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 05 Jan 2025 12:32:54 UTC"
 record: -1

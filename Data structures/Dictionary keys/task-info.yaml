@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 151
+        length: 135
         placeholder_text: |-
           ages_dict = {
               "Alice": 21,
@@ -19,7 +19,7 @@ files:
           offset: 0
         initialized_from_dependency: false
         encrypted_possible_answer: YFFhztOcvIJzwwaTEYArwJBVv9uTHDRA2pZ+YuVS6U8qv1iKBRFfKDXwbbrNr/sBb+A+lbjJ+DtmfbQwBMUPaMYu+ay9T/cxNicUnX8MorW5pEogIb4TN2mWDu5m6qRQqioAKaSK4SWLEFrsLN4CwUrrSSBMEEF1k7XJKtU7kAOl43QRQRYMG7dJ9k5z6Jre+ZtOsVaoXx0FHiK3MjPUUQ==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/test_task.py
@@ -32,7 +32,4 @@ files:
     visible: false
     learner_created: false
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 15:53:36 UTC"
 record: -1

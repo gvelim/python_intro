@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 236
-        length: 18
+        length: 85
         placeholder_text: "# TODO: Write an if statement with a condition to check if\
       \ the list `tasks` is empty."
         initial_state:
@@ -12,10 +12,10 @@ files:
           offset: 236
         initialized_from_dependency: false
         encrypted_possible_answer: 4hThaZsUAs+TIu5PoNCUPSSjhzybT9Pid6SGRMzmWkY=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 321
-        length: 112
+      - offset: 388
+        length: 68
         placeholder_text: "# TODO: check if the list is empty now and print 'Now empty!'\
       \ if so."
         initial_state:
@@ -23,7 +23,7 @@ files:
           offset: 388
         initialized_from_dependency: false
         encrypted_possible_answer: koYoWi7r0Kv4kRa62j+BpNo6Vy960CWcT3NZ+TwjJd40nPW7SbrnoxdBApC1QJ+T
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/__init__.py
@@ -34,7 +34,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Condition+Expressions+/+If+Statement
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 15:59:07 UTC"
 record: -1

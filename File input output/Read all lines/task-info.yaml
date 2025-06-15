@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 43
-        length: 31
+        length: 69
         placeholder_text: "# TODO: read all lines from input.txt into the list called\
       \ lines_list"
         initial_state:
@@ -28,7 +28,4 @@ files:
     visible: true
     learner_created: false
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 05 Jan 2025 12:39:41 UTC"
 record: -1

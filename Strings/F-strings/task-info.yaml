@@ -4,17 +4,17 @@ files:
     visible: true
     placeholders:
       - offset: 7
-        length: 8
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 7
         initialized_from_dependency: false
         encrypted_possible_answer: 8V6HNKL7hAWBzAo512WXyg==
-        selected: true
+        selected: false
         status: Solved
-      - offset: 22
-        length: 2
+      - offset: 17
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
@@ -23,18 +23,18 @@ files:
         encrypted_possible_answer: DXdeVjnqwe6gRiLvi33RfQ==
         selected: false
         status: Solved
-      - offset: 51
-        length: 6
+      - offset: 47
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 47
         initialized_from_dependency: false
         encrypted_possible_answer: 4iMGpMhlTtqw1gs/vbjxgQ==
-        selected: true
+        selected: false
         status: Solved
-      - offset: 66
-        length: 5
+      - offset: 59
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
@@ -52,7 +52,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+F-strings
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 14:46:45 UTC"
 record: -1

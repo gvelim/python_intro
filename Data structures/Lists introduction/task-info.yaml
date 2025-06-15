@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 72
-        length: 12
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 72
         initialized_from_dependency: false
         encrypted_possible_answer: vSW9C0BiOoEWWUxpBjiycQ==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/test_task.py
@@ -22,7 +22,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Data+Structures+/+Lists+Introduction
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 14:47:51 UTC"
 record: -1

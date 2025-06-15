@@ -4,16 +4,16 @@ files:
     visible: true
     placeholders:
       - offset: 983
-        length: 81
+        length: 63
         placeholder_text: "# Add a class variable `kind` and assign it the required value."
         initial_state:
           length: 63
           offset: 983
         initialized_from_dependency: false
         encrypted_possible_answer: wUUa6BWXkVQLR/h+s72fpA==
-        selected: true
+        selected: false
         status: Solved
-      - offset: 1181
+      - offset: 1138
         length: 4
         placeholder_text: pass
         initial_state:
@@ -21,10 +21,10 @@ files:
           offset: 1138
         initialized_from_dependency: false
         encrypted_possible_answer: sHIJfayUfEXKS0NJ7j2RdZxDp3B/y7zS2wNWzbbvFYg=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 1194
-        length: 68
+      - offset: 1151
+        length: 37
         placeholder_text: "# Add an instance variable `species`."
         initial_state:
           length: 37
@@ -42,7 +42,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Classes+and+Objects+/+Class+and+Instance+Variables
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 05 Jan 2025 12:01:19 UTC"
 record: -1

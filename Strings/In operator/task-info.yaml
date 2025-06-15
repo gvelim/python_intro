@@ -3,15 +3,15 @@ files:
   - name: in_operator.py
     visible: true
     placeholders:
-      - offset: 130
-        length: 18
+      - offset: 99
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 99
         initialized_from_dependency: false
         encrypted_possible_answer: YA1TKju6v0oJaEEpU4kWC2LR5DvbGmnIrSkfH9yZ+Vg=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/__init__.py
@@ -22,7 +22,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+In+Operator
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 14:37:02 UTC"
 record: -1

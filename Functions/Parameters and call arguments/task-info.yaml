@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 145
-        length: 14
+        length: 73
         placeholder_text: "# Define a function named \"square\" that prints square of\
       \ passed parameter"
         initial_state:
@@ -12,7 +12,7 @@ files:
           offset: 145
         initialized_from_dependency: false
         encrypted_possible_answer: ah4ZKlclxY61/lU4IDAEpg==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/test_task.py
@@ -20,7 +20,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Functions+/+Parameters+and+call+arguments
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 16:32:12 UTC"
 record: -1

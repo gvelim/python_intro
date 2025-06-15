@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 347
-        length: 19
+        length: 32
         placeholder_text: '''Print variable1 from my_object'''
         initial_state:
           length: 32
@@ -13,15 +13,15 @@ files:
         encrypted_possible_answer: nOGR5BCO9xlinllq4hGrfsyoBfTbiBUcSv3TrVaXbyI=
         selected: false
         status: Solved
-      - offset: 374
-        length: 15
+      - offset: 387
+        length: 39
         placeholder_text: '''Call method foo() of object my_object'''
         initial_state:
           length: 39
           offset: 387
         initialized_from_dependency: false
         encrypted_possible_answer: 9ojPJkLJz8G1mPyTq6DRWQ==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/__init__.py
@@ -32,7 +32,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Classes+and+Objects+/+Variable+access
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 05 Jan 2025 11:44:39 UTC"
 record: -1

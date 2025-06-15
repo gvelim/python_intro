@@ -4,24 +4,24 @@ files:
     visible: true
     placeholders:
       - offset: 121
-        length: 16
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 121
         initialized_from_dependency: false
         encrypted_possible_answer: jtgAkkh96OH29tSMm5OPdislabG0yGa/GYKhuz3kqhQ=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 196
-        length: 23
+      - offset: 183
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 183
         initialized_from_dependency: false
         encrypted_possible_answer: LrVL9uMKntpgyJrnzVuE6oTmaCLZg3Sus1VKJ8e1jwo=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/__init__.py
@@ -32,7 +32,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Length
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 14:39:19 UTC"
 record: -1

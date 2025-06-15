@@ -3,7 +3,7 @@ files:
   - name: undefined_variable.py
     visible: true
     placeholders:
-      - offset: 21
+      - offset: 19
         length: 8
         placeholder_text: variable
         initial_state:
@@ -19,7 +19,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Undefined+Variable
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 14:20:55 UTC"
 record: -1

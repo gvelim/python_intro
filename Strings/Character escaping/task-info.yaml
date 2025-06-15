@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 159
-        length: 49
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 159
         initialized_from_dependency: false
         encrypted_possible_answer: Y6rmg0t3jrwOMa5wkI3OBaIY8xU1+eI3Ylw1GeLgdk0PDkJceSkwnjnAvn3n1eaO
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/__init__.py
@@ -22,7 +22,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+Character+Escaping
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 14:40:32 UTC"
 record: -1

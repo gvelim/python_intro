@@ -4,17 +4,17 @@ files:
     visible: true
     placeholders:
       - offset: 402
-        length: 24
+        length: 36
         placeholder_text: "# Add the condition to exit the loop"
         initial_state:
           length: 36
           offset: 402
         initialized_from_dependency: false
         encrypted_possible_answer: ggPOR9nPTT8e4PFpmhJVHkoB8Z9M89z9rNlae8YRo0g=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 435
-        length: 5
+      - offset: 447
+        length: 15
         placeholder_text: "# Exit the loop"
         initial_state:
           length: 15
@@ -32,7 +32,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+Break+keyword
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 16:14:48 UTC"
 record: -1

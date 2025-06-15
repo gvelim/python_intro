@@ -3,8 +3,8 @@ files:
   - name: nested_list_comprehension.py
     visible: true
     placeholders:
-      - offset: 34
-        length: 17
+      - offset: 33
+        length: 6
         placeholder_text: '''TODO'''
         initial_state:
           length: 6
@@ -25,7 +25,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+Nested+List+Comprehension
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 16:11:03 UTC"
 record: -1

@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 236
-        length: 43
+        length: 41
         placeholder_text: print("This line should not be printed!")
         initial_state:
           length: 41
@@ -19,7 +19,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Introduction+/+Comments
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 14:19:01 UTC"
 record: -1

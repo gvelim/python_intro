@@ -3,10 +3,10 @@ with open('input.txt', 'r') as my_file:
     print(my_file.read(), '\n')
 
 
-with open('input1.txt','r') as file:
+# Open the file input1.txt in read mode using the with statement
     outfile_name = file.readline()
 
 
-outfile = open(outfile_name, 'w')  # Opening the file in write mode (using the `w` argument)
+outfile = open(???, 'w')  # Opening the file in write mode (using the `w` argument)
 outfile.write('Hello World')  # Writing to the file, the write() method is explained later.
-outfile.close()
+# Close the output file!

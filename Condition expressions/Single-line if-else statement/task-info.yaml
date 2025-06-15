@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 115
-        length: 74
+        length: 83
         placeholder_text: |-
           if my_random_number > 50:
               print(my_random_number)
@@ -15,7 +15,7 @@ files:
           offset: 115
         initialized_from_dependency: false
         encrypted_possible_answer: pIKazqTfz3BfTsv1OT3D0wo+bT+qJiY5j3mvqmKgTzN+q4ZA7H23WBhUcuBRi2G0oORJBwd2ax2GJNXUoaZ0LBXSbTEiwde/JfcVq4BsL0w=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/test_task.py
@@ -28,7 +28,4 @@ files:
     visible: false
     learner_created: false
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sat, 04 Jan 2025 16:02:04 UTC"
 record: -1

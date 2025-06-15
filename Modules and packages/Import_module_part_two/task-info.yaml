@@ -5,7 +5,7 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 55
+        length: 37
         placeholder_text: "# Import the `calculator` module here"
         initial_state:
           length: 37
@@ -14,8 +14,8 @@ files:
         encrypted_possible_answer: Iskug2+xFWxAL98ZSpQCibISedlP4HTOl+vcnYH2GFg=
         selected: false
         status: Solved
-      - offset: 64
-        length: 23
+      - offset: 46
+        length: 83
         placeholder_text: "#Create a new instance of the `Calculator` class defined in\
       \ the `calculator` module"
         initial_state:
@@ -23,10 +23,10 @@ files:
           offset: 46
         initialized_from_dependency: false
         encrypted_possible_answer: eLx1AxUD4z+yNObeYy+kk+2+w2qPTTWpakHmK7ZY0Mc=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 113
-        length: 82
+      - offset: 155
+        length: 66
         placeholder_text: "# Use the Calculator method `add` to add `i` to the current\
       \ value."
         initial_state:
@@ -34,7 +34,7 @@ files:
           offset: 155
         initialized_from_dependency: false
         encrypted_possible_answer: ePAFwr9x/zJ4Gl3OZoawJQ==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: calculator.py
@@ -51,7 +51,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Modules+and+Packages+/+Import+module+2
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 05 Jan 2025 12:07:24 UTC"
 record: -1
