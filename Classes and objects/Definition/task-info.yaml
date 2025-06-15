@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: class_definition.py
+    visible: true
+    placeholders:
+      - offset: 30
+        length: 6
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 30
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7vQHDauFrBEfwdEtLYqGyQ==
+        selected: false
+        status: Solved
+      - offset: 257
+        length: 9
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 254
+        initialized_from_dependency: false
+        encrypted_possible_answer: vss52IWMVKf53EG+ZFcx/Q==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Classes+and+Objects+/+Definition
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 05 Jan 2025 11:43:02 UTC"
+record: -1

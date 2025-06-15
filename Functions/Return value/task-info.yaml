@@ -1,0 +1,59 @@
+type: edu
+files:
+  - name: return_keyword.py
+    visible: true
+    placeholders:
+      - offset: 364
+        length: 45
+        placeholder_text: "# Assign an initial value to the b variable"
+        initial_state:
+          length: 43
+          offset: 364
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: true
+        status: Solved
+      - offset: 480
+        length: 44
+        placeholder_text: "# Update the b variable with a sum"
+        initial_state:
+          length: 34
+          offset: 478
+        initialized_from_dependency: false
+        encrypted_possible_answer: UUz/h4X4hbGpqhxYsJ5QkA==
+        selected: true
+        status: Solved
+      - offset: 533
+        length: 85
+        placeholder_text: "# Restore the old value of the b variable to the a variable\
+      \ from the temp"
+        initial_state:
+          length: 73
+          offset: 521
+        initialized_from_dependency: false
+        encrypted_possible_answer: Y9LEZ7DJb97notPBYfbSMQ==
+        selected: true
+        status: Solved
+      - offset: 623
+        length: 13
+        placeholder_text: "# Here we need to return the result to the caller"
+        initial_state:
+          length: 49
+          offset: 599
+        initialized_from_dependency: false
+        encrypted_possible_answer: jxhHjZPxFXG0RbOH/eyU/A==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: tests/decorated_test_function.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Functions+/+Return+value
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 04 Jan 2025 16:39:05 UTC"
+record: -1

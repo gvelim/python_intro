@@ -1,0 +1,57 @@
+type: edu
+custom_name: Import module part 2
+files:
+  - name: imports.py
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 55
+        placeholder_text: "# Import the `calculator` module here"
+        initial_state:
+          length: 37
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: Iskug2+xFWxAL98ZSpQCibISedlP4HTOl+vcnYH2GFg=
+        selected: false
+        status: Solved
+      - offset: 64
+        length: 23
+        placeholder_text: "#Create a new instance of the `Calculator` class defined in\
+      \ the `calculator` module"
+        initial_state:
+          length: 83
+          offset: 46
+        initialized_from_dependency: false
+        encrypted_possible_answer: eLx1AxUD4z+yNObeYy+kk+2+w2qPTTWpakHmK7ZY0Mc=
+        selected: true
+        status: Solved
+      - offset: 113
+        length: 82
+        placeholder_text: "# Use the Calculator method `add` to add `i` to the current\
+      \ value."
+        initial_state:
+          length: 66
+          offset: 155
+        initialized_from_dependency: false
+        encrypted_possible_answer: ePAFwr9x/zJ4Gl3OZoawJQ==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: calculator.py
+    visible: true
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Modules+and+Packages+/+Import+module+2
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 05 Jan 2025 12:07:24 UTC"
+record: -1

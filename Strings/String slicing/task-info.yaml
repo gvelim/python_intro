@@ -1,0 +1,28 @@
+type: edu
+files:
+  - name: slicing.py
+    visible: true
+    placeholders:
+      - offset: 165
+        length: 17
+        placeholder_text: ???
+        initial_state:
+          length: 3
+          offset: 165
+        initialized_from_dependency: false
+        encrypted_possible_answer: /6K5xZCishqzy5Q9PuIE5ZlNnIO/AVUNhZFtAmwKQfk=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Strings+/+String+Slicing
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 04 Jan 2025 14:33:28 UTC"
+record: -1
