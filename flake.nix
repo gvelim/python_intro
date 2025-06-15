@@ -19,14 +19,14 @@
           buildInputs = with pkgs; [
             python3Packages.python
             # https://nixos.org/manual/nixpkgs/stable/#how-to-consume-python-modules-using-pip-in-a-virtual-environment-like-i-am-used-to-on-other-operating-systems
+            # https://gist.github.com/bb010g/8a28a7d1fcdb021b42d1da71d2429a4b
+            # https://github.com/NixOS/nixpkgs/blob/master/pkgs/development/interpreters/python/hooks/venv-shell-hook.sh
             python3Packages.venvShellHook
             python3Packages.python-lsp-server
             nil
             nixd
           ];
-          shellHook = ''
-            venvShellHook
-          '';
+          shellHook = "venvShellHook";
           postVenvCreation = ''
             unset SOURCE_DATE_EPOCH
             source ${venvDir}/bin/activate
