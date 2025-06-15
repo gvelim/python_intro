@@ -1,5 +1,5 @@
 {
-  description = "Python pandas devenv";
+  description = "Python Introduction DevEnv";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
@@ -13,21 +13,23 @@
     in
     {
       devShells.${system} = {
-        default = pkgs.mkShellNoCC {
+        default = pkgs.mkShellNoCC rec {
           name = "Python3 virtual environment";
-          packages = with pkgs; [
+          venvDir = "./.venv";
+          buildInputs = with pkgs; [
             python3Packages.python
-            # https://nixos.org/manual/nixpkgs/stable/#setup-hooks
+            # https://nixos.org/manual/nixpkgs/stable/#how-to-consume-python-modules-using-pip-in-a-virtual-environment-like-i-am-used-to-on-other-operating-systems
             python3Packages.venvShellHook
+            python3Packages.python-lsp-server
             nil
             nixd
           ];
-          venvDir = "./.venv";
           shellHook = ''
             venvShellHook
           '';
           postVenvCreation = ''
-            source .venv/bin/activate
+            unset SOURCE_DATE_EPOCH
+            source ${venvDir}/bin/activate
             # Install project dependencies using pip
             pip install -r requirements.txt
           '';
