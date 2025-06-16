@@ -9,6 +9,44 @@
 
   <p>Have fun and good luck!</p>
 
+## Development Environment Setup
+
+This project includes a Nix-based development environment that provides a complete, reproducible Python setup with all necessary tools and dependencies.
+
+### Using Nix (Recommended)
+
+If you have Nix installed, you can get a fully configured development environment by running:
+
+```bash
+nix develop
+```
+
+This will automatically:
+- Set up Python 3 with development tools
+- Create and activate a virtual environment
+- Install all project dependencies
+- Provide enhanced IDE support with Language Server Protocol (LSP) tools
+
+For detailed information about the Nix setup, see [NIX_DEVELOPMENT_SETUP.md](./NIX_DEVELOPMENT_SETUP.md).
+
+### Traditional Python Setup
+
+If you prefer not to use Nix, you can set up the project manually:
+
+1. Create a virtual environment:
+   ```bash
+   python -m venv .venv
+   ```
+
+2. Activate the virtual environment:
+   - On Linux/macOS: `source .venv/bin/activate`
+   - On Windows: `.venv\Scripts\activate`
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 ## Want to know more?
 If you have questions about the course or the tasks, or if you find any errors, feel free to ask questions and participate in discussions within the repository [issues](https://github.com/jetbrains-academy/introduction_to_python/issues).
 
